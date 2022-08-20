@@ -16,8 +16,8 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## <div align="center">My Skill Set</div>
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center">Connect with me</div>  
 <div align="center">
 <a href="https://github.com/EricHuang950313">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -75,7 +75,7 @@
 <br/>  
 
 
-## Github Stats  
+## <div align="center">Github Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EricHuang950313&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
