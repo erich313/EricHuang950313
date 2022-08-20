@@ -1,7 +1,7 @@
 
 
-### 💫 About Me:  
-### <div align="center">I'm Eric Huang, a student and full-stack developer.</div>  
+## I'm Eric Huang, a student and full-stack developer.:  
+### <div align="center"></div>  
   
 
 -  🪛I’m currently working on [mrdashboard.repl.co](https://mrdashboard.repl.co/)  
